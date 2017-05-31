@@ -1,0 +1,23 @@
+﻿<Window x:Class="KursovaPS.View.WinWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KursovaPS.ViewModel"
+        mc:Ignorable="d"
+        Title="WinWin" Height="450" Width="625">
+    <Window.DataContext>
+        <local:MyViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="c:\users\i333468\documents\visual studio 2017\Projects\KursovaPS\KursovaPS\win.jpg" Stretch="UniformToFill" Opacity="0.7"/>
+        </Grid.Background>
+        <MediaElement Height="100" Width="100" Margin="10,159,507,0" LoadedBehavior="Manual" Name="mediaElement1" VerticalAlignment="Top" Source="c:\users\i333468\documents\visual studio 2017\Projects\KursovaPS\KursovaPS\win.mp3"/>
+        <TextBlock HorizontalAlignment="Left" Margin="162,207,0,0" TextWrapping="Wrap" Text="{Binding Win}" VerticalAlignment="Top" Height="132" Width="286" FontSize="72" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="162,81,0,0" TextWrapping="Wrap" Text="You Win:" VerticalAlignment="Top" Height="121" Width="311" FontSize="72" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="422,207,0,0" TextWrapping="Wrap" Text="$" VerticalAlignment="Top" Height="132" Width="95" FontSize="72" FontWeight="Bold"/>
+
+
+    </Grid>
+</Window>

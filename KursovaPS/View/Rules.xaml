@@ -1,0 +1,16 @@
+﻿<Window x:Class="KursovaPS.View.Rules"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KursovaPS.ViewModel"
+        mc:Ignorable="d"
+        Title="Rules" Height="300" Width="450">
+    <Window.DataContext>
+        <local:MyViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="249" Margin="10,10,0,0" TextWrapping="Wrap" Text="All Contestants will be asked up to fourteen (14) questions of varying degrees of difficulty, as determined in the sole discretion of the Producer. Contestants must choose the most correct answer choice of the four (4) possible answer choices provided. Each question has an assigned dollar value that increases in amount from Five Hundred Dollars ($500) to One Million Dollars ($1,000,000) in accordance with the prize table set forth in Rule 5, below. A Contestant may end his/her Game at any time prior to locking in a 'final answer' for the current question and walk away with the winnings already earned. If a Contestant answers all fourteen (14) questions correctly, he/she wins One Million Dollars ($1,000,000), per the terms of Rule 5, below. If a Contestant answers a question incorrectly, he/she will be eliminated from the Game and will win the amount of the last 'Safety Net' (see below) reached, which may represent a loss in some of the winnings earned to that point. The prize chart in Rule 5, below, illustrates the potential outcomes during game play.&#xD;&#xA; &#xD;&#xA;During the Game, the Contestant will face up to fourteen (14) questions, and may be able to take one (or more) of four actions: (a) answer the question; (b) use the 'Fifty-Fifty' lifeline (defined below); (c) use the 'Ask the Audience' lifeline (defined below); (d) use the 'Plus One' lifeline (defined below); or (e) walk away.&#xD;&#xA; &#xD;&#xA;When answering a question, the Contestant must lock in their answer by stating their answer choice and saying the word(s) 'final' or 'final answer' Once the Contestant has said 'final' or 'final answer,' the answer is locked and cannot be changed. If the Contestant does not say 'final' or 'final answer' the answer is not locked. The Contestant must also say 'final' or 'final answer' to confirm (and lock) his/her decision to walk away from the Game. The Contestant may change his/her answer, walk away, or use an available lifeline until the Contestant says that the answer given is their final answer. All decisions regarding game question answers and lifelines will be made in the sole discretion of Producer." VerticalAlignment="Top" Width="422" TextChanged="TextBox_TextChanged"/>
+
+    </Grid>
+</Window>

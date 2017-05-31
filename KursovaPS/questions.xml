@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <questions>
+    <question>
+      <description>2+3</description>
+      <answer score="1">5</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    <question>
+      <description>Which is the capital of Bulgaria?</description>
+      <answer score="1">Sofia</answer>
+      <answer score="0">Plovdiv</answer>
+      <answer score="0">Ruse</answer>
+      <answer score="0">Varna</answer>
+    </question>
+    <question>
+      <description>Which number is the biggest?</description>
+      <answer score="0">10</answer>
+      <answer score="1">15^2</answer>
+      <answer score="0">10.10</answer>
+      <answer score="0">3*2</answer>
+    </question>
+
+    <question>
+      <description>Which of the following is a mammal?</description>
+      <answer score="1">cow</answer>
+      <answer score="0">lizard</answer>
+      <answer score="0">duck</answer>
+      <answer score="0">fish</answer>
+    </question>
+    <question>
+      <description>Which is the best?</description>
+      <answer score="1">PIZZA</answer>
+      <answer score="0">sandwich</answer>
+      <answer score="0">soup</answer>
+      <answer score="0">chicken</answer>
+    </question>
+    <question>
+      <description>Finish: "Joe doesnt't share ... "</description>
+      <answer score="0">anything</answer>
+      <answer score="0">water</answer>
+      <answer score="1">food</answer>
+      <answer score="0">i don't know</answer>
+    </question>
+    <question>
+      <description>2+4</description>
+      <answer score="1">6</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    <question>
+      <description>2+8</description>
+      <answer score="1">10</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    <question>
+      <description>2+2</description>
+      <answer score="1">4</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    <question>
+      <description>2+13</description>
+      <answer score="1">15</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    <question>
+      <description>2+30</description>
+      <answer score="1">32</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    <question>
+      <description>2+33</description>
+      <answer score="1">35</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    <question>
+      <description>2+55</description>
+      <answer score="1">57</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    <question>
+      <description>2+66</description>
+      <answer score="1">68</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    <question>
+      <description>2+99</description>
+      <answer score="1">101</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    <question>
+      <description>2+22</description>
+      <answer score="1">24</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    <question>
+      <description>2+111</description>
+      <answer score="1">113</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    <question>
+      <description>2+350</description>
+      <answer score="1">352</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    <question>
+      <description>2+5</description>
+      <answer score="1">7</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    <question>
+      <description>2+1</description>
+      <answer score="1">3</answer>
+      <answer score="0">14</answer>
+      <answer score="0">3.151528</answer>
+      <answer score="0">0</answer>
+    </question>
+    
+  </questions>
